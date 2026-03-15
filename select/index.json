@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "プラスティック・ラヴ",
+  "base_artist": "竹内まりや",
+  "createdAt": "2026-03-15T04:19:38.626309Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "プラスティック・ラヴ",
+      "artist": "Mariya Takeuchi",
+      "has_synced": true,
+      "path": "select/01_プラスティック・ラヴ_Mariya_Takeuchi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "プラスティック・ラヴ",
+      "artist": "竹内まりや",
+      "has_synced": true,
+      "path": "select/02_プラスティック・ラヴ_竹内まりや.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "プラスティック・ラヴ - 12\" Extended Club Mix",
+      "artist": "Mariya Takeuchi",
+      "has_synced": true,
+      "path": "select/03_プラスティック・ラヴ_-_12__Extended_Club_Mix_Mariya_Takeuchi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "プラスティック・ラヴ - 12\" Original Length ReMix",
+      "artist": "Mariya Takeuchi",
+      "has_synced": true,
+      "path": "select/04_プラスティック・ラヴ_-_12__Original_Length_ReMix_Mariya_Takeuchi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "プラスティック・ラヴ - Karaoke",
+      "artist": "Mariya Takeuchi",
+      "has_synced": false,
+      "path": "select/05_プラスティック・ラヴ_-_Karaoke_Mariya_Takeuchi.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "プラスティック・ラヴ",
+      "artist": "竹内まりや",
+      "has_synced": true,
+      "path": "select/06_プラスティック・ラヴ_竹内まりや.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "プラスティック・ラヴ",
+      "artist": "Mariya Takeuchi",
+      "has_synced": true,
+      "path": "select/07_プラスティック・ラヴ_Mariya_Takeuchi.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "プラスティック・ラヴ",
+      "artist": "竹内まりや",
+      "has_synced": true,
+      "path": "select/08_プラスティック・ラヴ_竹内まりや.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "プラスティック・ラヴ",
+      "artist": "Mariya Takeuchi",
+      "has_synced": true,
+      "path": "select/09_プラスティック・ラヴ_Mariya_Takeuchi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "プラスティック・ラヴ",
+      "artist": "竹内 まりや",
+      "has_synced": false,
+      "path": "select/pl_01_プラスティック・ラヴ_竹内_まりや.txt"
+    }
+  ]
+}
